@@ -115,7 +115,7 @@
     "url": "https://github.com/AceDataCloud/Nexior/issues"
   },
   "engines": {
-    "node": "20.11.1"
+    "node": "^20"
   },
   "homepage": "https://github.com/AceDataCloud/Nexior#readme",
   "license": "MIT"
